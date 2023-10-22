@@ -49,6 +49,7 @@ body {
 
 .stats {
     display: flex;
+    align-items: center;
 }
 
 .container-stats {
@@ -70,7 +71,7 @@ body {
     color: hsla(0, 0%, 100%, 0.6);
 }
 
-.contanier-img {
+.container-img {
     width: 50%;
     height: 100%;
 }
@@ -138,7 +139,6 @@ body {
 @media screen and (max-width: 480px) {
     .card {
         display: flex;
-        flex-direction: column-reverse;
         width: 85%;
         height: 95%;
     }
@@ -159,7 +159,7 @@ body {
         text-align: center;
     }
 
-    .contanier-img {
+    .container-img {
         width: 100%;
         height: 250px;
     }
@@ -209,7 +209,7 @@ body {
         text-align: center;
     }
 
-    .contanier-img {
+    .container-img {
         width: 100%;
         height: 250px;
     }
