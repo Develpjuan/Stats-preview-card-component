@@ -166,7 +166,7 @@ body {
     }
     .container-img__fondo {
         height: 250px;
-        background-image: url("/images/image-header-mobile.jpg");
+        /* background-image: url("/images/image-header-mobile.jpg"); */
     }
 
     .container-img__bg-color {
@@ -216,7 +216,7 @@ body {
     }
     .container-img__fondo {
         height: 250px;
-        background-image: url("/images/image-header-mobile.jpg");
+        /* background-image: url("/images/image-header-mobile.jpg"); */
     }
 
     .container-img__bg-color {
